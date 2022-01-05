@@ -1,0 +1,8 @@
+*.PNG
+*.DOCX
+.idea/
+out/
+*.ini
+*.iml
+*.zip
+submission\ stuff/
